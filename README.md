@@ -122,8 +122,4 @@ To effectively address climate risk, decision-makers need:
 ---
 
 
-* Customize it for a **Data Analyst / Climate Analyst job application**
-* Add a **project architecture or data pipeline section**
-* Create a short **GitHub repo description + tags**
 
-Just tell me 👌
